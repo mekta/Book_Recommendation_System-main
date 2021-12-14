@@ -41,4 +41,4 @@ Our dataset lacked any description for the books that there in the data. Our nex
 
 <b>Creating a dummy web page for generating recommendations:</b>
 
-Finally we also developed and tested a web page which could take our models in the backend and produce recommendations to a given input item.
+Finally developed and tested a web page which could take our models in the backend and produce recommendations to a given input item.
