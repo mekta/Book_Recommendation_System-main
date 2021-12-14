@@ -37,7 +37,7 @@ After dealing with the explicit ratings, we started working on implicit ratings 
 
 <b>Model building for implicit case using content based approach:</b>
 
-Our dataset lacked any description for the books that there in the data. Our next step was to fetch description of as many books as we could using Google's API. Once we had  successfully fetched the descriptions for a sufficient number of books, we developed a content based model using TFIDF vectorizer. Once this model was built, we could recommend books based on the similarity of content in the books a customer had purchased with the other books that were there in the corpus.
+The dataset lacked any description for the books that there in the data. Our next step was to fetch description of as many books as we could using Google's API. Once we had successfully fetched the descriptions for a sufficient number of books, we developed a content based model using TFIDF vectorizer. Once this model was built, I could recommend books based on the similarity of content in the books a customer had purchased with the other books that were there in the corpus.
 
 <b>Creating a dummy web page for generating recommendations:</b>
 
